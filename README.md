@@ -1,6 +1,6 @@
 # ![Logo](extension/icons/icon48.png "Logo") **CoWin Pro**
 
-## The first Brower (Chrome / Edge) Extension to enhance the User Experience / Usability of India's [Co-WIN App](https://selfregistration.cowin.gov.in/appointment).
+## The First Browser (Chrome / Edge) Extension aims to enhance the User Experience / Usability of India's [Co-WIN App](https://selfregistration.cowin.gov.in/appointment).
 
 ![Vaccine Drive](assets/Promotion-Large.png "Vaccine Drive")
 
