@@ -4,7 +4,7 @@
 
 ![Vaccine Drive](assets/Promotion-Large.png "Vaccine Drive")
 
-<br>In the public interest, I created this browser extension to enhance India's [Co-WIN App](https://selfregistration.cowin.gov.in/appointment)'s User Interface for easy appointment booking. Hoping it will be useful to many. I wish you get your vaccine soon.
+<br>In the public interest, I created this browser extension to enhance India's [Co-WIN App](https://selfregistration.cowin.gov.in/appointment)'s User Interface for easy appointment booking. Hope it will ease your vaccine booking process.
 
 <br>
 
