@@ -25,8 +25,44 @@
 
 ![Advance Filters!!](assets/11-AdvanceFilter.png "Advance Filters!!")
 
-There are more features. Give it a try and experience, you will love it ♥
+
+👍 Login Screen Enhancements<br>
+
+* Initial
+
+![Login Screen Initial](assets/02-AppHome.png "Login Screen Initial")
+
+* Second Time Login
+
+![Login Screen Entry](assets/03-AppLogin1.png "Login Screen Entry")
+
+* OTP Verification
+
+![OTP Auth](assets/04-AppLoginOTP.png "OTP Auth")
+
+
+👍 Enhanced Search Results<br>
+
+* Search By PIN
+
+![Search By PIN Entry](assets/05-SearchByPin-Entry.png "Search By PIN Entry")
+
+
+* Search By PIN Results
+
+![Search By PIN Results](assets/06-SearchByPin-Result.png "Search By PIN Results")
+
+
+* Search By District Results
+
+![Search By District Results](assets/07-SearchByDistrict-Result.png "Search By District Results")
 
 ---
 
+Give it a try and experience, you will love it ♥.
+
 Take Care, Stay Safe.
+
+---
+
+>**NOTE:** This extension is for Desktop Chrome / Edge and not for mobile.
