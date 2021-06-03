@@ -1,12 +1,12 @@
 {
   "name": "CoWIN Pro",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The User Experience Enhancer for India's Co-WIN App.",
   "author" : "Kumar P",
   "manifest_version": 2,
 
   "content_scripts": [{
-    "matches": ["https://selfregistration.cowin.gov.in/*"],
+    "matches": ["https://selfregistration.cowin.gov.in/*", "https://www.cowin.gov.in/*", "https://cowin.gov.in/*"],
     "js": [ "xlib/jquery-3.6.0.min.js",
             "xlib/CryptoJSv3.1.2-core.min.js",
             "xlib/CryptoJSv3.1.2-aes.min.js",

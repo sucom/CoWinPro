@@ -8,10 +8,8 @@
 
 <br>
 
->**NOTE:** This extension has been submitted in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en-IN) and [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=en-IN) for Public use ( 🤞 Hope, it will be visible soon ! ). Meanwhile if you want to give it a try, follow the [manual installation guide](README-CoWinPro-Chrome+Edge-Extension-ManualInstall-Guide.pdf).
+>**NOTE:** This extension is available in [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl/?hl=en-IN) for Public use.
 
-
-<br>**Manual Install:** Download this repo zip, unzip and follow this [installation guide](README-CoWinPro-Chrome+Edge-Extension-ManualInstall-Guide.pdf).
 <br>
 
 ---
