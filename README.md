@@ -1,14 +1,14 @@
-# ![Logo](extension/icons/icon48.png "Logo") **CoWin Pro**
+# ![Logo](assets/icons/icon48.png "Logo") **CoWin Pro**
 
 ## The First Browser (Chrome / Edge) Extension aims to enhance the User Experience / Usability of India's [Co-WIN App](https://selfregistration.cowin.gov.in/).
 
 ![Vaccine Drive](assets/Promotion-Large.png "Vaccine Drive")
 
-<br>In the public interest, I created this browser extension to enhance India's [Co-WIN App](https://selfregistration.cowin.gov.in/)'s User Interface for easy appointment booking. Hope it will ease your vaccine booking process.
+<br>In the public interest, this browser extension was created to enhance India's [Co-WIN App](https://selfregistration.cowin.gov.in/)'s User Interface for easy appointment booking. Hope it will ease your vaccine booking process.
 
 <br>
 
->**NOTE:** This extension is available in [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl/?hl=en-IN) for Public use.
+>**NOTE:** This extension is available in [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl) for Public use.
 
 <br>
 
@@ -17,43 +17,19 @@
 ## Screens
 👍 Enhanced Search Results !<br>
 
-![Enhanced Search Results!](assets/10-EnhancedSearchResults.png "Enhanced Search Results!")
+- Shows only centers with available slots.
+- Ability to filter by multiple Center Name(s), PIN(s) or Area(s) within District or PIN search.
+- Ability to filter by Dose-1 or Dose-2.
+- Retains all filters (District, PIN, Age, Vaccine, Cost, etc.) for future search.
+- Shows counts of available slots in centers with last search time stamp.
 
-👍 Advance Filter !!<br>
+![Enhanced Search Results!](assets/02-PublicSearch.png "Enhanced Search Results!")
 
-![Advance Filters!!](assets/11-AdvanceFilter.png "Advance Filters!!")
-
-
-👍 Login Screen Enhancements<br>
-
-* Initial
-
-![Login Screen Initial](assets/02-AppHome.png "Login Screen Initial")
-
-* Second Time Login
-
-![Login Screen Entry](assets/03-AppLogin1.png "Login Screen Entry")
-
-* OTP Verification
-
-![OTP Auth](assets/04-AppLoginOTP.png "OTP Auth")
+![Enhanced Search Results!](assets/03-SearchByDistrict-Result.png "Enhanced Search Results!")
 
 
-👍 Enhanced Search Results<br>
-
-* Search By PIN
-
-![Search By PIN Entry](assets/05-SearchByPin-Entry.png "Search By PIN Entry")
-
-
-* Search By PIN Results
-
-![Search By PIN Results](assets/06-SearchByPin-Result.png "Search By PIN Results")
-
-
-* Search By District Results
-
-![Search By District Results](assets/07-SearchByDistrict-Result.png "Search By District Results")
+About<br>
+![About](assets/01-ExtensionPop.png "About")
 
 ---
 
@@ -63,4 +39,4 @@ Take Care, Stay Safe.
 
 ---
 
->**NOTE:** This extension is for Desktop Chrome / Edge and not for mobile.
+>**NOTE:** This extension is for Desktop Chrome / Edge. For mobile, use [Kiwi Browser](https://kiwibrowser.com/) and visit [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl) to install this extension.
