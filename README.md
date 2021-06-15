@@ -8,7 +8,7 @@
 
 <br>
 
->**NOTE:** This extension is available in [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl) for Public use.
+>**NOTE:** This extension is available in [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl) and [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/cowin-pro/) for Public use.
 
 <br>
 
@@ -39,4 +39,4 @@ Take Care, Stay Safe.
 
 ---
 
->**NOTE:** This extension is for Desktop Chrome / Edge. For mobile, use [Kiwi Browser](https://kiwibrowser.com/) and visit [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl) to install this extension.
+>**NOTE:** This extension is for Desktop Chrome, Edge and Firefox. For mobile, use [Kiwi Browser](https://kiwibrowser.com/) and visit [Chrome Web Store](https://chrome.google.com/webstore/detail/cowin-pro/leebmggfmncbgjnjlfbbekamkiimhlkl) to install this extension.
